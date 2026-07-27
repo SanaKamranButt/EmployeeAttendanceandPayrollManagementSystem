@@ -1,0 +1,18 @@
+[
+    {
+        "emp_id": "EMP001",
+        "name": "Sana",
+        "password": "1234",
+        "designation": "Manager",
+        "basic_salary": 50000.0,
+        "hourly_rate": 500.0
+    },
+    {
+        "emp_id": "EMP002",
+        "name": "Zainab",
+        "password": "1234",
+        "designation": "operation manager",
+        "basic_salary": 30000.0,
+        "hourly_rate": 300.0
+    }
+]
